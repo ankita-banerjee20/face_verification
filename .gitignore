@@ -1,3 +1,4 @@
 Data/
 training_checkpoints
 siamesemodel.keras
+application_data
