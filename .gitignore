@@ -1,4 +1,4 @@
-Data/
-training_checkpoints
-siamesemodel.keras
-application_data
+data/
+training_checkpoints/
+application_data/
+model/
