@@ -1,5 +1,4 @@
 data/
 training_checkpoints/
 application_data/
-model/
 __pycache__/
