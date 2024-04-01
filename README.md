@@ -1,0 +1,23 @@
+# Face Verification App Using Siamese Model
+
+## Overview:
+The Face Verification App is a computer application that utilizes a custom deep learning Siamese model for verifying faces captured through the device's camera. The app compares the input face with a set of verification images and determines whether the input face matches with verified faces.
+
+## Features:
+- Face verification using a custom neural network model.
+- Real-time face detection and capture through the device's camera.
+- Support for comparing the input face with multiple verification images.
+- User-friendly interface displaying verification results.
+
+## Getting Started:
+To kickstart the face verification app follow the next section to ensure proper installation and configuration of dependencies.
+
+## How to Run Guide:
+Follow these steps to run the face verification app successfully:
+1. Install Dependencies: Ensure that you have all the required dependencies installed. Run the following commands in a notebook cell:
+```
+!pip install opencv-python
+!pip install matplotlib
+!pip install tensorflow
+```
+
