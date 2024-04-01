@@ -2,3 +2,4 @@ data/
 training_checkpoints/
 application_data/
 __pycache__/
+model/
