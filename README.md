@@ -9,6 +9,13 @@ The Face Verification App is a computer application that utilizes a custom deep 
 - Support for comparing the input face with multiple verification images.
 - User-friendly interface displaying verification results.
 
+## Usage:
+- Allow the app to access your device's camera.
+- Position your face within the camera frame.
+- The app will capture your face and compare it with the stored verification images.
+- If the similarity between your face and any verification image exceeds a certain threshold, the app will display a "Verified" status. Otherwise, it will display an "Unverified" status.
+
+
 ## Getting Started:
 To kickstart the face verification app follow the next section to ensure proper installation and configuration of dependencies.
 
@@ -20,8 +27,3 @@ Follow these steps to run the face verification app successfully:
 !pip install matplotlib
 !pip install tensorflow
 ```
-## Usage:
-- Allow the app to access your device's camera.
-- Position your face within the camera frame.
-- The app will capture your face and compare it with the stored verification images.
-- If the similarity between your face and any verification image exceeds a certain threshold, the app will display a "Verified" status. Otherwise, it will display an "Unverified" status.
