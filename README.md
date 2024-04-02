@@ -3,6 +3,9 @@
 ## Overview:
 The Face Verification App is a computer application that utilizes a custom deep learning Siamese model for verifying faces captured through the device's camera. The app compares the input face with a set of verification images and determines whether the input face matches with verified faces.
 
+> [!IMPORTANT]
+> This app is still in beta phase.
+
 ## Features:
 - Face verification using a custom neural network model.
 - Real-time face detection and capture through the device's camera.
@@ -18,6 +21,10 @@ The Face Verification App is a computer application that utilizes a custom deep 
 
 ## Getting Started:
 To kickstart the face verification app follow the next section to ensure proper installation and configuration of dependencies.
+
+## Prerequisites:
+1. Python 3.12 must be installed in order to run.
+2. Kivy must be installed to run the UI.
 
 ## How to Run Guide:
 Follow these steps to run the face verification app successfully:
