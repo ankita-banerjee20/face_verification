@@ -34,3 +34,14 @@ Follow these steps to run the face verification app successfully:
 !pip install matplotlib
 !pip install tensorflow
 ```
+
+## Contributing:
+Contributions to the Face Verification App project are welcome. To contribute:
+
+- Fork the repository.
+- Create a new branch for your feature or bug fix.
+- Make your changes and commit them.
+- Push your changes to your fork.
+- Submit a pull request to the main repository.
+
+Your input is valuable to us. Feel free to contribute to the project. Thank you for exploring our Project.
