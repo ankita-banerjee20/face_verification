@@ -45,3 +45,6 @@ Contributions to the Face Verification App project are welcome. To contribute:
 - Submit a pull request to the main repository.
 
 Your input is valuable to us. Feel free to contribute to the project. Thank you for exploring our Project.
+
+## Acknowledgement:
+- I acknowledge the paper [Siamese Neural Networks for One-shot Image Recognition](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf) by Gregory Koch, Richard Zemel, and Ruslan Salakhutdinov, which served as the inspiration for the Siamese neural network architecture implemented in this project.
