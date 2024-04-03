@@ -35,7 +35,7 @@ Follow these steps to run the face verification app successfully:
 !pip install tensorflow
 ```
 
-## Contributing:
+## Contribution:
 Contributions to the Face Verification App project are welcome. To contribute:
 
 - Fork the repository.
